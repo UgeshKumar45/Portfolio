@@ -1,4 +1,4 @@
-import Profile from '../../assets/home.jpg'
+import Profile from '../../assets/home.png'
 import { Link } from 'react-router'
 import { RiArrowRightLine } from "react-icons/ri";
 import './home.css'
